@@ -21,3 +21,4 @@ Where the progression of my coursework will be located.
 
 
 In this beeswarm plot each group was made to represent a specific country, with circles of varying size respresenting different levels of debt between the years of 1996 to 2018, shown on the X-axis. General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. Countries that have circles with smaller radii are those with a lower government debt-to-GDP ratio and thus lower debt. Circles with larger radii denote higher debt-to-GDP ratio and as such higher debt.
+* Please note that certain years for certain countries will not have empty spaces where circles should have been. The OCED did not have government debt-to-GDP data for these years. *
