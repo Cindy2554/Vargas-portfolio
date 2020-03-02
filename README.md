@@ -13,7 +13,7 @@ Where the progression of my coursework will be located.
 
 # Tutorial Practice
 
-[Link to tutorial practice] (https://cindy2554.github.io/tutorial-practice/)
+[Link to tutorial practice](https://cindy2554.github.io/tutorial-practice/)
 
 
 
