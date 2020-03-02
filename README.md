@@ -11,6 +11,26 @@ I want to be exposed to different ways of visulaizing data thorugh a variety of 
 Where the progression of my coursework will be located.
 
 
+# Tutorial Practice
+
+[Link to tutorial practice] (https://cindy2554.github.io/tutorial-practice/)
+
+
+
+# Part of Assignment 2; Government Debt- The rest is located in this portfolio here, below
+
+[Link to part of Assignment 2](https://cindy2554.github.io/Governmentdebt/)
+
+
+# Assignment 3 and 4
+
+[Link to Assignment 3 and 4](https://cindy2554.github.io/AssignmentThreeAndFour/)
+
+
+# Final Project
+
+[Link to Final Project](https://cindy2554.github.io/final_project_CindyVargas/)
+
 
 # Data Viz Assignment 2- Government Debt
 *Downloaded from OCED website*
